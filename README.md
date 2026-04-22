@@ -6,3 +6,8 @@
 Auto scaling groups
 application load balancer and target groups
 EC2 AMI templates
+
+# how autoscaling works
+Automatically scale in or out the resources based on desired number of ec2 instances
+It replaces the unhealthy instances, and achieves resilience
+It avoid overspending of instances based on traffic helps to attain cost saving 
